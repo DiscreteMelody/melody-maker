@@ -1,0 +1,8 @@
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\bin\Release\Melody Maker.exe.config
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\bin\Release\Melody Maker.exe
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\bin\Release\Melody Maker.pdb
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\obj\Release\Melody_Maker.MelodyMakerForm.resources
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\obj\Release\Melody_Maker.Properties.Resources.resources
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\obj\Release\Melody Maker.csproj.GenerateResource.Cache
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\obj\Release\Melody Maker.exe
+C:\Users\Levi\Documents\Programming Projects\Visual C#\Melody Maker\Melody Maker\obj\Release\Melody Maker.pdb
